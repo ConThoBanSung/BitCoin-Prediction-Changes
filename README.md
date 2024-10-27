@@ -1,6 +1,11 @@
 # Bitcoin Price Prediction and Trading Signal System
 
 This project provides real-time Bitcoin price predictions, technical analysis indicators, and trading signals. It combines several machine learning and deep learning models to predict Bitcoin's next price movement, generate trading signals, and forecast trends. The project uses Yahoo Finance for live Bitcoin price data and includes both price and hybrid prediction models as well as technical indicators like RSI, MACD, SMA, and Bollinger Bands.
+![image](https://github.com/user-attachments/assets/ff63754d-a69d-489a-9105-7349bec5722f)
+
+![image](https://github.com/user-attachments/assets/05cd884e-1b4a-432a-8b0a-a82ab6ac96ad)
+
+![image](https://github.com/user-attachments/assets/318035c3-8725-49be-a391-b07e5c966b54)
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
@@ -89,12 +94,6 @@ Make sure you have the .h5 and .pkl model files in the same directory as the scr
 
 
 
-![image](https://github.com/user-attachments/assets/ff63754d-a69d-489a-9105-7349bec5722f)
 
-
-![image](https://github.com/user-attachments/assets/05cd884e-1b4a-432a-8b0a-a82ab6ac96ad)
-
-
-![image](https://github.com/user-attachments/assets/318035c3-8725-49be-a391-b07e5c966b54)
 
 
