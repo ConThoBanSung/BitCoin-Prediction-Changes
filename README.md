@@ -85,7 +85,7 @@ Make sure you have the .h5 and .pkl model files in the same directory as the scr
 
 - `Current and Next Minute Price Prediction: Predicts Bitcoin price for the current and next minute using price_model.
 - `Trading Signal: Generates a trading signal (Buy or Sell) based on signal_model predictions.
-- `Trend Prediction: Predicts overall trend direction (Increase or Decrease) using hybrid_model.
+- `Trend Prediction: Predicts overall trend direction (Increase or Decrease) using hybrid_model.'''
 
 
 
